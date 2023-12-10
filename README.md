@@ -1,2 +1,1 @@
-# Mi-primer-curso
-Este es un repositorio de prueba del M2 del Prepcourse de Henry
+Este es un proyecto de prueba de como crear un repositorio y clonarlo de github  a mi computadora
